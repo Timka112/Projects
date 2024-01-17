@@ -19,3 +19,4 @@ if fnpe >= 60 and fnpe <= 69:
   print("You got a D")
 if fnpe >= 1 and fnpe <= 59:
   print("You got an F...")
+
